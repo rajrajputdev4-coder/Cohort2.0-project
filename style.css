@@ -54,6 +54,7 @@ html,body{
 }
 .center button:hover{
     background-color: royalblue;
+    color: #fff;
 }
 .center h4{
     position: absolute;
